@@ -1,0 +1,23 @@
+{
+  "olpVersion" : "0.1",
+
+  "paths" : [
+    {
+      "name" : "all-modules",
+      "title" : "All Modules by JavaScript Garden",
+      "description" : "See in one place all the modules published by JavaScript Garden.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "privacy" : "public",
+      "pages" : [
+        {"module" : "javascript-garden"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/javascript-garden.md"}
+  ],
+
+  "assets" : [
+  ]
+}
