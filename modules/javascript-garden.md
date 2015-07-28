@@ -7,7 +7,7 @@
 "freshnessDate" : 2015-05-28,
 "homepage" : "http://bonsaiden.github.io/JavaScript-Garden/",
 "canonicalSource" : "http://bonsaiden.github.io/JavaScript-Garden/",
-"author" : "Ivo Wetzel, Zhang Yi Jiang, Tim Ruffles"
+"author" : "Ivo Wetzel, Zhang Yi Jiang, Tim Ruffles",
 "license" : "MIT license"
 }
 -->
